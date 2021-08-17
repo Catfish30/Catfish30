@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![test-typing](https://user-images.githubusercontent.com/85207872/129660468-aa017019-6ffa-4373-a44b-5483d5ebcde0.gif)
+<!-- ![test-typing](https://user-images.githubusercontent.com/85207872/129660468-aa017019-6ffa-4373-a44b-5483d5ebcde0.gif) -->
 
 <!--
 **Catfish30/Catfish30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
